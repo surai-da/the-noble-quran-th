@@ -18,6 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('home/index',[HomeController::class,'index']);
+
 Route::get('surah/1',[SurahController::class,'one']);
 Route::get('surah/2',[SurahController::class,'two']);
 Route::get('surah/3',[SurahController::class,'three']);
@@ -116,7 +117,7 @@ Route::get('surah/95',[SurahController::class,'ninetyfive']);
 Route::get('surah/96',[SurahController::class,'ninetysix']);
 Route::get('surah/97',[SurahController::class,'ninetyseven']);
 Route::get('surah/98',[SurahController::class,'ninetyeight']);
-Route::get('surah/99',[SurahController::class,'fortynine']);
+Route::get('surah/99',[SurahController::class,'ninetynine']);
 Route::get('surah/100',[SurahController::class,'onehundred']);
 Route::get('surah/101',[SurahController::class,'onehundredone']);
 Route::get('surah/102',[SurahController::class,'onehundredtwo']);
