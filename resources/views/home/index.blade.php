@@ -3171,7 +3171,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Hud</h5>
+            <h5>Video Hud</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Hud</p>
             </div>
@@ -3193,7 +3193,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Yusuf</h5>
+            <h5>Video Yusuf</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Joseph</p>
             </div>
@@ -3215,7 +3215,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Ar-Ra&#39;d</h5>
+            <h5>Video Ar-Ra&#39;d</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Thunder</p>
             </div>
@@ -3237,7 +3237,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Ibrahim</h5>
+            <h5>Video Ibrahim</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Abraham</p>
             </div>
@@ -3259,7 +3259,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Hijr</h5>
+            <h5>Video Al-Hijr</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Rocky Tract</p>
             </div>
@@ -3281,7 +3281,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>An-Nahl</h5>
+            <h5>Video An-Nahl</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Bee</p>
             </div>
@@ -3303,7 +3303,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Isra</h5>
+            <h5>Video Al-Isra</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Night Journey</p>
             </div>
@@ -3325,7 +3325,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Kahf</h5>
+            <h5>Video Al-Kahf</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Cave</p>
             </div>
@@ -3347,7 +3347,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Maryam</h5>
+            <h5>Video Maryam</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Mary</p>
             </div>
@@ -3369,7 +3369,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Taha</h5>
+            <h5>Video Taha</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Ta-Ha</p>
             </div>
@@ -3391,7 +3391,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Anbya</h5>
+            <h5>Video Al-Anbya</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Prophets</p>
             </div>
@@ -3413,7 +3413,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Hajj</h5>
+            <h5>Video Al-Hajj</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Pilgrimage</p>
             </div>
@@ -3435,7 +3435,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Mu&#39;minun</h5>
+            <h5>Video Al-Mu&#39;minun</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Believers</p>
             </div>
@@ -3457,7 +3457,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>An-Nur</h5>
+            <h5>Video An-Nur</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Light</p>
             </div>
@@ -3479,7 +3479,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Furqan</h5>
+            <h5>Video Al-Furqan</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Criterion</p>
             </div>
@@ -3501,7 +3501,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Ash-Shu&#39;ara</h5>
+            <h5>Video Ash-Shu&#39;ara</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Poets</p>
             </div>
@@ -3523,7 +3523,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>An-Naml</h5>
+            <h5>Video An-Naml</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Ant</p>
             </div>
@@ -3545,7 +3545,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-Qasas</h5>
+            <h5>Video Al-Qasas</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Stories</p>
             </div>
@@ -3567,7 +3567,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Al-&#39;Ankabut</h5>
+            <h5>Video Al-&#39;Ankabut</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Spider</p>
             </div>
@@ -3589,7 +3589,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Ar-Rum</h5>
+            <h5>Video Ar-Rum</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Romans</p>
             </div>
@@ -3611,7 +3611,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>Luqman</h5>
+            <h5>Video Luqman</h5>
             <div class="ayah-number-wrapper">
               <p class="english">Luqman</p>
             </div>
@@ -3633,7 +3633,7 @@
 
         <div class="surah-card__text">
           <div class="surah-card__latin">
-            <h5>As-Sajdah</h5>
+            <h5>Video As-Sajdah</h5>
             <div class="ayah-number-wrapper">
               <p class="english">The Prostration</p>
             </div>
