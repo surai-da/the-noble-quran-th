@@ -21,7 +21,7 @@
 <link href="https://cdn.qurancdn.com/assets/icons/apple-touch-icon-ccdcf7ce609c965533799cd0c53919a65f02265d68bf08d40a8a7f34dc2c2e3b.png" title="Quran.com" type="image/png" rel="apple-touch-icon" color="theme-color" />
 
 
-<title>Surah Al-Fatihah - 1-7 | Quran.com</title>
+<title>Surah Al-Fatihah - 1-7 | อัลกุรอาน</title>
 <meta name="description" content="Surah Al-Fatihah(الفاتحة) 1:1 In the Name of Allah—the Most Compassionate, Most Merciful.">
 <meta name="keywords" content="the opener, سورة الفاتحة, সূচনা, pembukaan, l&#39;aprente, അല്‍ഫാതിഹ, pristup, de opening, открывающая коран, la apertura, öppningen, 开端章, l&#39;ouverture, کھولنے والی, kitabı açan, fâtiha, القران الكريم, القرآن, قران, quran">
 <link rel="canonical" href="https://quran.com/al-fatihah?locale=th&amp;font=v1&amp;reading=false&amp;translations=131%2C20">
@@ -131,8 +131,8 @@
         <img id="site-menu--trigger" class="sidebar-btns" alt="quran.com menu" src="https://cdn.qurancdn.com/assets/icon/hamburger-b328bd84b5f4e6621c239ea54e3511632642ebf56db943aa8b04cce4af6e6f7d.svg" />
       </div>
 
-      <a class="logo" href="/">
-        <strong style="font-weight: bold">Quran</strong>.com
+      <a class="logo" href="/home/index">
+        <strong style="font-weight: bold">อัลกุรอาน</strong>
 </a>    </div>
 
       <div class="header-input">

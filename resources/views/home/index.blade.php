@@ -132,7 +132,7 @@
       </div>
 
       <a class="logo" href="/">
-        <strong style="font-weight: bold">Quran</strong>.Th <!-- logo quran.Th -->
+        <strong style="font-weight: bold">อัลกุรอาน</strong><!-- logo quran.Th -->
 </a>    </div>
 
 
