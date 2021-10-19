@@ -2,6 +2,7 @@
 
 use App\http\Controllers\HomeController;
 use App\http\Controllers\SurahController;
+use App\http\Controllers\VideoController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -133,3 +134,10 @@ Route::get('surah/111',[SurahController::class,'onehundredeleven']);
 Route::get('surah/112',[SurahController::class,'onehundredtwelve']);
 Route::get('surah/113',[SurahController::class,'onehundredthirteen']);
 Route::get('surah/114',[SurahController::class,'onehundredfourteen']);
+
+//Video
+//video
+Route::get('/v1',[VideoController::class,'v1']);
+Route::get('/v2',[VideoController::class,'v2']);
+
+Route::get('/v71',[VideoController::class,'v71']);
