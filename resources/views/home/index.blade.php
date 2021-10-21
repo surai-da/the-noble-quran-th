@@ -377,6 +377,7 @@
     </div>
   </div>
 </div>
+-->
 
 <div class="container space-y-32 hidden" data-controller="bookmarks">
   <p class="no-margin">
@@ -388,7 +389,7 @@
     </div>
   </div>
 </div>
--->
+
 
   <div class="container content-page__center col">
     <div class="">
@@ -420,7 +421,7 @@
            role="tab"
            aria-controls="video-list"
            aria-selected="false">
-          <span class='th '>Video</span>
+          <span class='th '>วีดีโอตัฟซีร</span>
         </a>
       </div>
     </div>
